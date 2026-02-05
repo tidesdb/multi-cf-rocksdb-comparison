@@ -25,5 +25,11 @@
             <version>5.17.2</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>com.tidesdb</groupId>
+            <artifactId>tidesdb-java</artifactId>
+            <version>0.3.1</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 </project>

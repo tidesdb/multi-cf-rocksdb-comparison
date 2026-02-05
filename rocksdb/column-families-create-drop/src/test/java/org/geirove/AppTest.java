@@ -10,9 +10,7 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * Unit test for simple App.
- */
+
 public class AppTest {
 
     private static final Charset UTF_8 = Charset.forName("UTF-8");
