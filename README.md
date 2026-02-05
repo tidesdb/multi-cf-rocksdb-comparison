@@ -3,3 +3,4 @@
 **Modified to compare against TidesDB**
 
 ![Plot](plot/result.png)
+![Plot Scaling](plot/scaling-result.png)

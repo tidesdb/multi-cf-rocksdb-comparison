@@ -1,2 +1,2 @@
-/home/agpmastersystem/bugs-and-regressions-master/rocksdb/column-families-create-drop/src/test/java/org/geirove/ComparisonTest.java
-/home/agpmastersystem/bugs-and-regressions-master/rocksdb/column-families-create-drop/src/test/java/org/geirove/AppTest.java
+/home/agpmastersystem/multi-cf-rocksdb-comparison/rocksdb/column-families-create-drop/src/test/java/org/geirove/AppTest.java
+/home/agpmastersystem/multi-cf-rocksdb-comparison/rocksdb/column-families-create-drop/src/test/java/org/geirove/ComparisonTest.java
